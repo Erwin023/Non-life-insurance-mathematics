@@ -1,1 +1,1 @@
-# MUMIO
+# Non-life insurance mathematics
